@@ -1,0 +1,4 @@
+Traceback (most recent call last):
+  File "/mnt/wch/registry_ecos/src/access/pypi/pypi_package.py", line 4, in <module>
+    from ..package import Package
+ImportError: attempted relative import with no known parent package

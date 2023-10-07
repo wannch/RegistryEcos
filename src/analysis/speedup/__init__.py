@@ -1,0 +1,1 @@
+from .fast import MultiProcessTask
