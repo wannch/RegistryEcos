@@ -1,5 +1,5 @@
 test_*.py
-test_*
+test_*/
 cache/
 cache_*/
 pypi_pkg*/
