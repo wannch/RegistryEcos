@@ -1,1 +1,13 @@
 test_*.py
+test_*
+cache/
+cache_*/
+pypi_pkg*/
+*.zip
+*.json
+*.crontab
+tests/mal_static_analysis/
+tests/test_pypi/
+tests/transformers/
+.vscode/
+*.xml
